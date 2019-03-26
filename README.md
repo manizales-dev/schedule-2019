@@ -1,2 +1,5 @@
-# schedule-2019
-A draft schedule for 2019 milestones.
+# ManizalesDev Schedule 2019
+
+Reunión inicial.
+  * Registro de organizadores y miembros.
+  * Actividades a realizar en el año.
